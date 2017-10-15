@@ -1,0 +1,3094 @@
+1502400269073	geckodriver	INFO	geckodriver 0.18.0
+1502400269107	geckodriver	INFO	Listening on 127.0.0.1:50589
+1502400271620	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502400275937	Marionette	INFO	Enabled via --marionette
+
+(firefox:1614): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1614): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1614): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1614): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1684): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1684): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1684): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1684): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502400291183	Marionette	INFO	Listening on port 35025
+1502400291534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502400291755	Marionette	DEBUG	loaded listener.js
+1502400291929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502400292158	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502400292160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 1722ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502400556438	geckodriver	INFO	geckodriver 0.18.0
+1502400556459	geckodriver	INFO	Listening on 127.0.0.1:58683
+1502400558126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502400561034	Marionette	INFO	Enabled via --marionette
+
+(firefox:1828): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1828): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1828): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1828): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1897): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1897): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1897): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1897): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502400577959	Marionette	INFO	Listening on port 45429
+1502400578091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502400578309	Marionette	DEBUG	loaded listener.js
+1502400578523	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502400578729	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502400578730	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1933
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502401025648	geckodriver	INFO	geckodriver 0.18.0
+1502401025669	geckodriver	INFO	Listening on 127.0.0.1:36359
+1502401027320	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502401030187	Marionette	INFO	Enabled via --marionette
+
+(firefox:2052): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2052): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502401045071	Marionette	INFO	Listening on port 41865
+1502401045370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502401045599	Marionette	DEBUG	loaded listener.js
+1502401045762	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502401045892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502401045894	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 2157ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502401139102	geckodriver	INFO	geckodriver 0.18.0
+1502401139123	geckodriver	INFO	Listening on 127.0.0.1:36539
+1502401140791	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502401143843	Marionette	INFO	Enabled via --marionette
+
+(firefox:2231): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2231): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2231): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2231): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2297): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2297): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2297): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2297): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502401157626	Marionette	INFO	Listening on port 43093
+1502401157695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502401157899	Marionette	DEBUG	loaded listener.js
+1502401158067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502401158248	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502401158252	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+2332
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502401898862	geckodriver	INFO	geckodriver 0.18.0
+1502401898884	geckodriver	INFO	Listening on 127.0.0.1:37695
+1502401900569	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502401903601	Marionette	INFO	Enabled via --marionette
+
+(firefox:3503): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3503): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3503): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3503): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502401914881	Marionette	INFO	Listening on port 36863
+1502401915038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502401915249	Marionette	DEBUG	loaded listener.js
+1502401915968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502401916227	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502401916228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 3605
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1502402001218	geckodriver	INFO	geckodriver 0.18.0
+1502402001239	geckodriver	INFO	Listening on 127.0.0.1:48423
+1502402002920	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502402005906	Marionette	INFO	Enabled via --marionette
+
+(firefox:3651): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3651): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3651): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3651): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502402013899	Marionette	INFO	Listening on port 43209
+1502402014019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502402014258	Marionette	DEBUG	loaded listener.js
+1502402014528	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502402014731	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502402014733	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+3752
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502404228667	geckodriver	INFO	geckodriver 0.18.0
+1502404228688	geckodriver	INFO	Listening on 127.0.0.1:35791
+1502404230313	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1502404415281	geckodriver	INFO	geckodriver 0.18.0
+1502404415301	geckodriver	INFO	Listening on 127.0.0.1:53669
+1502404416913	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1502404759945	geckodriver	INFO	geckodriver 0.18.0
+1502404759966	geckodriver	INFO	Listening on 127.0.0.1:46725
+1502404761606	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502404764465	Marionette	INFO	Enabled via --marionette
+
+(firefox:4450): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4450): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4450): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4450): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4516): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4516): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4516): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4516): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502404777819	Marionette	INFO	Listening on port 41719
+1502404777907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502404778126	Marionette	DEBUG	loaded listener.js
+1502404778375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502404778932	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502404778935	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::GenerateDump cloned child 4551
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502404938069	geckodriver	INFO	geckodriver 0.18.0
+1502404938091	geckodriver	INFO	Listening on 127.0.0.1:58065
+1502404939739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502404942571	Marionette	INFO	Enabled via --marionette
+
+(firefox:4611): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4611): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4611): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4611): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4677): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4677): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4677): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4677): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502404959988	Marionette	INFO	Listening on port 45603
+1502404960080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502404960299	Marionette	DEBUG	loaded listener.js
+1502404960514	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502404960973	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502404960974	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+4712
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502405073677	geckodriver	INFO	geckodriver 0.18.0
+1502405073698	geckodriver	INFO	Listening on 127.0.0.1:43981
+1502405075362	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502405078538	Marionette	INFO	Enabled via --marionette
+
+(firefox:4873): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4873): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4873): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4873): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4940): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4940): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4940): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4940): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502405096657	Marionette	INFO	Listening on port 34149
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502405096806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502405097015	Marionette	DEBUG	loaded listener.js
+1502405097197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502405097664	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502405097666	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+4977
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+[Child 4940] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Cb6fS8/firefox-55.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1502406146918	geckodriver	INFO	geckodriver 0.18.0
+1502406146952	geckodriver	INFO	Listening on 127.0.0.1:57785
+1502406149459	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502406153865	Marionette	INFO	Enabled via --marionette
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1812): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1812): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1812): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1812): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502406172794	Marionette	INFO	Listening on port 34037
+1502406173002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502406173231	Marionette	DEBUG	loaded listener.js
+1502406173378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502406173891	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502406173893	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1847
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502409997187	geckodriver	INFO	geckodriver 0.18.0
+1502409997224	geckodriver	INFO	Listening on 127.0.0.1:48313
+1502409999685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1502410202430	geckodriver	INFO	geckodriver 0.18.0
+1502410202451	geckodriver	INFO	Listening on 127.0.0.1:40959
+1502410204029	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1502410638051	geckodriver	INFO	geckodriver 0.18.0
+1502410638073	geckodriver	INFO	Listening on 127.0.0.1:58699
+1502410639875	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502410644449	Marionette	INFO	Enabled via --marionette
+
+(firefox:3436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3504): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3504): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3504): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3504): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502410656554	Marionette	INFO	Listening on port 45467
+1502410656790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502410657014	Marionette	DEBUG	loaded listener.js
+1502410657216	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502410657705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502410657707	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 3542
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1502411055765	geckodriver	INFO	geckodriver 0.18.0
+1502411055786	geckodriver	INFO	Listening on 127.0.0.1:51029
+1502411057493	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502411060612	Marionette	INFO	Enabled via --marionette
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3666): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3666): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3666): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3666): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502411066731	Marionette	INFO	Listening on port 33149
+1502411067593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502411067820	Marionette	DEBUG	loaded listener.js
+1502411068019	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502411068877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502411068879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 3705
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1502411331144	geckodriver	INFO	geckodriver 0.18.0
+1502411331165	geckodriver	INFO	Listening on 127.0.0.1:38173
+1502411354568	geckodriver	INFO	geckodriver 0.18.0
+1502411354590	geckodriver	INFO	Listening on 127.0.0.1:36297
+1502411405106	geckodriver	INFO	geckodriver 0.18.0
+1502411405127	geckodriver	INFO	Listening on 127.0.0.1:45379
+1502411406841	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502411410181	Marionette	INFO	Enabled via --marionette
+
+(firefox:4594): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4594): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4594): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4699): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4699): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4699): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4699): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502411420516	Marionette	INFO	Listening on port 44803
+1502411420647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502411420900	Marionette	DEBUG	loaded listener.js
+1502411421367	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502411422010	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502411422012	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::GenerateDump cloned child 4745
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502412726642	geckodriver	INFO	geckodriver 0.18.0
+1502412726665	geckodriver	INFO	Listening on 127.0.0.1:49727
+1502412801170	geckodriver	INFO	geckodriver 0.18.0
+1502412801190	geckodriver	INFO	Listening on 127.0.0.1:41421
+1502412933237	geckodriver	INFO	geckodriver 0.18.0
+1502412933258	geckodriver	INFO	Listening on 127.0.0.1:45243
+1502414003679	geckodriver	INFO	geckodriver 0.18.0
+1502414003700	geckodriver	INFO	Listening on 127.0.0.1:57623
+1502414005266	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502414008014	Marionette	INFO	Enabled via --marionette
+
+(firefox:9693): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9693): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9693): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9693): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9750): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9750): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9750): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:9750): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502414013857	Marionette	INFO	Listening on port 33871
+1502414014679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502414014942	Marionette	DEBUG	loaded listener.js
+1502414015091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502414015477	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502414015480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 9788
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502414017290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1502414542090	geckodriver	INFO	geckodriver 0.18.0
+1502414542112	geckodriver	INFO	Listening on 127.0.0.1:51319
+1502414586752	geckodriver	INFO	geckodriver 0.18.0
+1502414586774	geckodriver	INFO	Listening on 127.0.0.1:38927
+1502414588311	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502414591251	Marionette	INFO	Enabled via --marionette
+
+(firefox:10603): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10603): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10603): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10603): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10661): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10661): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10661): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:10661): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502414598424	Marionette	INFO	Listening on port 39435
+1502414598500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502414598709	Marionette	DEBUG	loaded listener.js
+1502414608921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502414609240	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502414609242	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ExceptionHandler::GenerateDump cloned child 10701ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1502414610701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1502415195203	geckodriver	INFO	geckodriver 0.18.0
+1502415195227	geckodriver	INFO	Listening on 127.0.0.1:57635
+1502415579727	geckodriver	INFO	geckodriver 0.18.0
+1502415579748	geckodriver	INFO	Listening on 127.0.0.1:39849
+1502415581284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12298): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12298): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12298): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12298): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502415589814	Marionette	INFO	Listening on port 35469
+1502415590120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502415751358	geckodriver	INFO	geckodriver 0.18.0
+1502415751379	geckodriver	INFO	Listening on 127.0.0.1:43465
+1502415752922	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1502415833492	geckodriver	INFO	geckodriver 0.18.0
+1502415833514	geckodriver	INFO	Listening on 127.0.0.1:53313
+1502415835019	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12463): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12463): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12463): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12463): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502415844470	Marionette	INFO	Listening on port 39157
+1502415844877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502415919301	geckodriver	INFO	geckodriver 0.18.0
+1502415919322	geckodriver	INFO	Listening on 127.0.0.1:54885
+1502415920912	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12670): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12670): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12670): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12670): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502415930234	Marionette	INFO	Listening on port 45409
+1502415930724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502416131313	geckodriver	INFO	geckodriver 0.18.0
+1502416131335	geckodriver	INFO	Listening on 127.0.0.1:56465
+1502416132900	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502416142270	Marionette	INFO	Listening on port 36261
+1502416142492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502416399003	geckodriver	INFO	geckodriver 0.18.0
+1502416399024	geckodriver	INFO	Listening on 127.0.0.1:48917
+1502416400527	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12960): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12960): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12960): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12960): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502416409143	Marionette	INFO	Listening on port 38095
+1502416409415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502417282287	geckodriver	INFO	geckodriver 0.18.0
+1502417282311	geckodriver	INFO	Listening on 127.0.0.1:33381
+1502417283836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:13275): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13275): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13275): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1502417292991	Marionette	INFO	Listening on port 36847
+1502417293270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504143989256	geckodriver	INFO	geckodriver 0.18.0
+1504143989279	geckodriver	INFO	Listening on 127.0.0.1:33339
+1504143990795	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1504144786536	geckodriver	INFO	geckodriver 0.18.0
+1504144786559	geckodriver	INFO	Listening on 127.0.0.1:48377
+1504144788102	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504144798776	Marionette	INFO	Listening on port 40901
+1504144799046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504156078627	geckodriver	INFO	geckodriver 0.18.0
+1504156078648	geckodriver	INFO	Listening on 127.0.0.1:39521
+1504156080143	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:5292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504156089210	Marionette	INFO	Listening on port 35257
+1504156089801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504156212067	geckodriver	INFO	geckodriver 0.18.0
+1504156212088	geckodriver	INFO	Listening on 127.0.0.1:47401
+1504156213602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:5417): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5417): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5417): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5417): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504156222057	Marionette	INFO	Listening on port 38213
+1504156222333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504374913773	geckodriver	INFO	geckodriver 0.18.0
+1504374913796	geckodriver	INFO	Listening on 127.0.0.1:50737
+1504374915325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:20445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504374925941	Marionette	INFO	Listening on port 34081
+1504374926205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504375135446	geckodriver	INFO	geckodriver 0.18.0
+1504375135468	geckodriver	INFO	Listening on 127.0.0.1:38751
+1504375137082	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:20563): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20563): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20563): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20563): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504375146193	Marionette	INFO	Listening on port 35339
+1504375146582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504375480051	geckodriver	INFO	geckodriver 0.18.0
+1504375480073	geckodriver	INFO	Listening on 127.0.0.1:58597
+1504375481592	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:20816): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20816): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20816): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20816): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504375490984	Marionette	INFO	Listening on port 38921
+1504375491255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504375630131	geckodriver	INFO	geckodriver 0.18.0
+1504375630152	geckodriver	INFO	Listening on 127.0.0.1:46335
+1504375631656	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:20944): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20944): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20944): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20944): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504375642009	Marionette	INFO	Listening on port 45927
+1504375642579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504375777821	geckodriver	INFO	geckodriver 0.18.0
+1504375777842	geckodriver	INFO	Listening on 127.0.0.1:57109
+1504375779347	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21084): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21084): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21084): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21084): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504375787848	Marionette	INFO	Listening on port 40037
+1504375788120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504376053274	geckodriver	INFO	geckodriver 0.18.0
+1504376053295	geckodriver	INFO	Listening on 127.0.0.1:45867
+1504376054818	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21255): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21255): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21255): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21255): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504376063311	Marionette	INFO	Listening on port 40721
+1504376063577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504376488934	geckodriver	INFO	geckodriver 0.18.0
+1504376488955	geckodriver	INFO	Listening on 127.0.0.1:57407
+1504376490499	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21436): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21436): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504376500032	Marionette	INFO	Listening on port 44519
+1504376500294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504376642685	geckodriver	INFO	geckodriver 0.18.0
+1504376642706	geckodriver	INFO	Listening on 127.0.0.1:35109
+1504376644239	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504376653725	Marionette	INFO	Listening on port 39029
+1504376653924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504376737622	geckodriver	INFO	geckodriver 0.18.0
+1504376737644	geckodriver	INFO	Listening on 127.0.0.1:36125
+1504376739176	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504376749217	Marionette	INFO	Listening on port 44369
+1504376749448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504377081703	geckodriver	INFO	geckodriver 0.18.0
+1504377081726	geckodriver	INFO	Listening on 127.0.0.1:43065
+1504377083317	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21884): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21884): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21884): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21884): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504377094092	Marionette	INFO	Listening on port 46061
+1504377094719	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504378330511	geckodriver	INFO	geckodriver 0.18.0
+1504378330546	geckodriver	INFO	Listening on 127.0.0.1:59791
+1504378332178	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:22118): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22118): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22118): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22118): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504378344806	Marionette	INFO	Listening on port 45969
+1504378345210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504378565265	geckodriver	INFO	geckodriver 0.18.0
+1504378565326	geckodriver	INFO	Listening on 127.0.0.1:39101
+1504378567096	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:22252): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22252): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22252): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22252): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504378656284	Marionette	INFO	Listening on port 43301
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504381968013	geckodriver	INFO	geckodriver 0.18.0
+1504381968049	geckodriver	INFO	Listening on 127.0.0.1:49527
+1504381969606	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1528): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1528): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1528): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1528): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504381982093	Marionette	INFO	Listening on port 35481
+1504381982406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504382078529	geckodriver	INFO	geckodriver 0.18.0
+1504382078550	geckodriver	INFO	Listening on 127.0.0.1:34239
+1504382080180	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1653): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1653): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1653): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1653): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504382089599	Marionette	INFO	Listening on port 34643
+1504382090174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504382285043	geckodriver	INFO	geckodriver 0.18.0
+1504382285065	geckodriver	INFO	Listening on 127.0.0.1:41965
+1504382286707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1789): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1789): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1789): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1789): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504382298889	Marionette	INFO	Listening on port 43987
+1504382299204	Marionette	WARN	TLS certificate errors will be ignored for this session
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504382499654	geckodriver	INFO	geckodriver 0.18.0
+1504382499677	geckodriver	INFO	Listening on 127.0.0.1:45837
+1504382501348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2054): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2054): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2054): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2054): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504382512135	Marionette	INFO	Listening on port 34749
+1504382512452	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504382626935	geckodriver	INFO	geckodriver 0.18.0
+1504382627001	geckodriver	INFO	Listening on 127.0.0.1:36775
+1504382628658	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2192): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2192): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2192): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504382648778	Marionette	INFO	Listening on port 39131
+1504382649422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504382733784	geckodriver	INFO	geckodriver 0.18.0
+1504382733834	geckodriver	INFO	Listening on 127.0.0.1:36297
+1504382735748	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2328): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2328): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2328): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2328): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504382757385	Marionette	INFO	Listening on port 39815
+1504382767716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504382840788	geckodriver	INFO	geckodriver 0.18.0
+1504382840847	geckodriver	INFO	Listening on 127.0.0.1:51055
+1504382842640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2439): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2439): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2439): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2439): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504382861108	Marionette	INFO	Listening on port 33777
+1504382868844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504383010733	geckodriver	INFO	geckodriver 0.18.0
+1504383010768	geckodriver	INFO	Listening on 127.0.0.1:48355
+1504383012334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504383024176	Marionette	INFO	Listening on port 43569
+1504383024437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504383327255	geckodriver	INFO	geckodriver 0.18.0
+1504383327279	geckodriver	INFO	Listening on 127.0.0.1:41619
+1504383328799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1661): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1661): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1661): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1661): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504383337829	Marionette	INFO	Listening on port 42427
+1504383338152	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504386827539	geckodriver	INFO	geckodriver 0.18.0
+1504386827567	geckodriver	INFO	Listening on 127.0.0.1:34759
+1504386829096	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3359): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3359): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504386838069	Marionette	INFO	Listening on port 34983
+1504386838364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504387700223	geckodriver	INFO	geckodriver 0.18.0
+1504387700261	geckodriver	INFO	Listening on 127.0.0.1:49227
+1504387701799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3613): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3613): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3613): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3613): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504387711033	Marionette	INFO	Listening on port 42123
+1504387711280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.publicstorage.com/missouri/self-storage-st-charles-mo/63303-self-storage/918?PID=PSLocalSearch&CID=1341&CHID=LL, line 1: ReferenceError: _satellite is not defined
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504390242103	geckodriver	INFO	geckodriver 0.18.0
+1504390242126	geckodriver	INFO	Listening on 127.0.0.1:36175
+1504390243714	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:4320): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4320): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4320): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4320): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504487704494	geckodriver	INFO	geckodriver 0.18.0
+1504487704529	geckodriver	INFO	Listening on 127.0.0.1:32877
+1504487706063	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1590): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1590): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1590): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1590): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504487717928	Marionette	INFO	Listening on port 45547
+1504487718153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.storageinns.net/javascripts/jquery-picture-tag.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: http://www.storageinns.net/javascripts/responsive-nav.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/javascripts/g5-responsive.js, line 52: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/javascripts/fitvids.js, line 83: ReferenceError: jQuery is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 61: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/javascripts/app/rails3_unobtrusive_compat.js?1504393771, line 52: TypeError: window.addEvent is not a function
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 92: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 118: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 146: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 409: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 567: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 925: ReferenceError: $ is not defined
+JavaScript error: http://www.storageinns.net/p/self_storage/sizes_prices_9707/saint-charles-mo-63303/a-storage-inn-highway-94-9707, line 1057: ReferenceError: $ is not defined
+1504489018019	geckodriver	INFO	geckodriver 0.18.0
+1504489018054	geckodriver	INFO	Listening on 127.0.0.1:35005
+1504489019607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504489031365	Marionette	INFO	Listening on port 41963
+1504489031638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504540878312	geckodriver	INFO	geckodriver 0.18.0
+1504540878335	geckodriver	INFO	Listening on 127.0.0.1:60725
+1504540879832	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:29448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504540918595	geckodriver	INFO	geckodriver 0.18.0
+1504540918617	geckodriver	INFO	Listening on 127.0.0.1:51811
+1504540920128	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:29572): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29572): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29572): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29572): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504540928722	Marionette	INFO	Listening on port 41579
+1504540928993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504540963022	geckodriver	INFO	geckodriver 0.18.0
+1504540963044	geckodriver	INFO	Listening on 127.0.0.1:45465
+1504540964546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:29689): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29689): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29689): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29689): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504540973781	Marionette	INFO	Listening on port 38157
+1504540973986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504806235476	geckodriver	INFO	geckodriver 0.18.0
+1504806235498	geckodriver	INFO	Listening on 127.0.0.1:57679
+1504806237028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:29303): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29303): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29303): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29303): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504806245384	Marionette	INFO	Listening on port 41893
+1504806245664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504809254927	geckodriver	INFO	geckodriver 0.18.0
+1504809254948	geckodriver	INFO	Listening on 127.0.0.1:52169
+1504809256469	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:29906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29906): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29906): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504809265167	Marionette	INFO	Listening on port 34923
+1504809265628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504809793935	geckodriver	INFO	geckodriver 0.18.0
+1504809793956	geckodriver	INFO	Listening on 127.0.0.1:32987
+1504809795484	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:30078): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30078): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30078): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30078): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504809804307	Marionette	INFO	Listening on port 39025
+1504809804816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504810060951	geckodriver	INFO	geckodriver 0.18.0
+1504810060972	geckodriver	INFO	Listening on 127.0.0.1:59939
+1504810062517	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:30324): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30324): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30324): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30324): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504810071665	Marionette	INFO	Listening on port 46729
+1504810072121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504811084622	geckodriver	INFO	geckodriver 0.18.0
+1504811084645	geckodriver	INFO	Listening on 127.0.0.1:37647
+1504811086181	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:30647): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30647): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30647): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30647): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504811095672	Marionette	INFO	Listening on port 36807
+1504811096171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504811111444	geckodriver	INFO	geckodriver 0.18.0
+1504811111465	geckodriver	INFO	Listening on 127.0.0.1:49313
+1504811112987	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:30756): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30756): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30756): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30756): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504811122730	Marionette	INFO	Listening on port 44675
+1504811122997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504829043405	geckodriver	INFO	geckodriver 0.18.0
+1504829043440	geckodriver	INFO	Listening on 127.0.0.1:60369
+1504829044979	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1680): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1680): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504829056927	Marionette	INFO	Listening on port 44763
+1504829057209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504829292725	geckodriver	INFO	geckodriver 0.18.0
+1504829292748	geckodriver	INFO	Listening on 127.0.0.1:46855
+1504829294270	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1802): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1802): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1802): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504829303333	Marionette	INFO	Listening on port 44467
+1504829303819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504829548412	geckodriver	INFO	geckodriver 0.18.0
+1504829548433	geckodriver	INFO	Listening on 127.0.0.1:47089
+1504829549937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1945): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1945): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1945): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1945): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504829559198	Marionette	INFO	Listening on port 36589
+1504829559461	Marionette	WARN	TLS certificate errors will be ignored for this session
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+1504829710531	geckodriver	INFO	geckodriver 0.18.0
+1504829710552	geckodriver	INFO	Listening on 127.0.0.1:59193
+1504829712077	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2106): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2106): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2106): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2106): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504829720466	Marionette	INFO	Listening on port 44925
+1504829720854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504829928398	geckodriver	INFO	geckodriver 0.18.0
+1504829928437	geckodriver	INFO	Listening on 127.0.0.1:40009
+1504829929958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2253): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2253): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2253): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2253): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504829939680	Marionette	INFO	Listening on port 40337
+1504829940167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504830094438	geckodriver	INFO	geckodriver 0.18.0
+1504830094461	geckodriver	INFO	Listening on 127.0.0.1:55305
+1504830095977	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2385): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2385): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2385): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2385): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504830105771	Marionette	INFO	Listening on port 40479
+1504830106389	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1504831058734	geckodriver	INFO	geckodriver 0.18.0
+1504831058765	geckodriver	INFO	Listening on 127.0.0.1:50203
+1504831060382	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2640): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2640): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2640): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2640): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504831071086	Marionette	INFO	Listening on port 32793
+1504831071624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504831417351	geckodriver	INFO	geckodriver 0.18.0
+1504831417376	geckodriver	INFO	Listening on 127.0.0.1:42619
+1504831418988	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2806): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2806): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2806): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2806): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504831429055	Marionette	INFO	Listening on port 46211
+1504831429415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504831470090	geckodriver	INFO	geckodriver 0.18.0
+1504831470113	geckodriver	INFO	Listening on 127.0.0.1:41637
+1504831471843	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2927): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2927): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2927): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2927): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504831483200	Marionette	INFO	Listening on port 39027
+1504831483477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504831637819	geckodriver	INFO	geckodriver 0.18.0
+1504831637865	geckodriver	INFO	Listening on 127.0.0.1:35393
+1504831639451	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504831650840	Marionette	INFO	Listening on port 33319
+1504831651225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+1504831849390	geckodriver	INFO	geckodriver 0.18.0
+1504831849429	geckodriver	INFO	Listening on 127.0.0.1:58827
+1504831851019	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1516): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1516): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1516): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1516): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504831861825	Marionette	INFO	Listening on port 46631
+1504831862092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504832563157	geckodriver	INFO	geckodriver 0.18.0
+1504832563178	geckodriver	INFO	Listening on 127.0.0.1:46479
+1504832564678	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1852): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1852): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1852): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1852): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504832573789	Marionette	INFO	Listening on port 45131
+1504832573998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504832708879	geckodriver	INFO	geckodriver 0.18.0
+1504832708900	geckodriver	INFO	Listening on 127.0.0.1:56315
+1504832710384	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504832719582	Marionette	INFO	Listening on port 41411
+1504832719841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504833468009	geckodriver	INFO	geckodriver 0.18.0
+1504833468032	geckodriver	INFO	Listening on 127.0.0.1:56357
+1504833469540	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2190): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2190): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2190): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2190): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504833478073	Marionette	INFO	Listening on port 33517
+1504833478406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+1504833940249	geckodriver	INFO	geckodriver 0.18.0
+1504833940288	geckodriver	INFO	Listening on 127.0.0.1:50677
+1504833941843	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504833952600	Marionette	INFO	Listening on port 36879
+1504833952880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504834388967	geckodriver	INFO	geckodriver 0.18.0
+1504834388988	geckodriver	INFO	Listening on 127.0.0.1:60605
+1504834390519	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1708): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1708): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1708): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1708): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504834398912	Marionette	INFO	Listening on port 40041
+1504834399186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504834525901	geckodriver	INFO	geckodriver 0.18.0
+1504834525921	geckodriver	INFO	Listening on 127.0.0.1:38123
+1504834527453	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1847): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1847): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1847): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1847): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504834536728	Marionette	INFO	Listening on port 46163
+1504834537266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504835081955	geckodriver	INFO	geckodriver 0.18.0
+1504835081975	geckodriver	INFO	Listening on 127.0.0.1:38205
+1504835083492	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2059): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2059): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2059): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2059): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504835092534	Marionette	INFO	Listening on port 45397
+1504835092805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504835110533	geckodriver	INFO	geckodriver 0.18.0
+1504835110555	geckodriver	INFO	Listening on 127.0.0.1:51327
+1504835112099	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2230): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2230): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2230): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2230): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504835120815	Marionette	INFO	Listening on port 38499
+1504835121075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504835256358	geckodriver	INFO	geckodriver 0.18.0
+1504835256379	geckodriver	INFO	Listening on 127.0.0.1:51355
+1504835257874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2410): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2410): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2410): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2410): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504835266459	Marionette	INFO	Listening on port 33765
+1504835266665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504835476042	geckodriver	INFO	geckodriver 0.18.0
+1504835476064	geckodriver	INFO	Listening on 127.0.0.1:35247
+1504835477549	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504835486876	Marionette	INFO	Listening on port 42255
+1504835487148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 1504836193976	geckodriver	INFO	geckodriver 0.18.0
+1504836194012	geckodriver	INFO	Listening on 127.0.0.1:54301
+1504836195542	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1524): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1524): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1524): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1524): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504836206544	Marionette	INFO	Listening on port 41545
+1504836206820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504836239065	geckodriver	INFO	geckodriver 0.18.0
+1504836239088	geckodriver	INFO	Listening on 127.0.0.1:36487
+1504836240572	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1633): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1633): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1633): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1633): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504836249632	Marionette	INFO	Listening on port 44633
+1504836250133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505057501990	geckodriver	INFO	geckodriver 0.18.0
+1505057502025	geckodriver	INFO	Listening on 127.0.0.1:53607
+1505057503537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7995): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7995): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7995): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7995): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505057514830	Marionette	INFO	Listening on port 39661
+1505057515308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505057569796	geckodriver	INFO	geckodriver 0.18.0
+1505057569817	geckodriver	INFO	Listening on 127.0.0.1:47517
+1505057571309	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:8119): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8119): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8119): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8119): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505057580842	Marionette	INFO	Listening on port 42947
+1505057581132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505057633664	geckodriver	INFO	geckodriver 0.18.0
+1505057633686	geckodriver	INFO	Listening on 127.0.0.1:52521
+1505057635169	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:8241): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8241): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8241): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8241): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505057644858	Marionette	INFO	Listening on port 40813
+1505057645209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505057789869	geckodriver	INFO	geckodriver 0.18.0
+1505057789891	geckodriver	INFO	Listening on 127.0.0.1:44381
+1505057791450	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8380): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505057807478	Marionette	INFO	Listening on port 44631
+1505057807961	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505059891533	geckodriver	INFO	geckodriver 0.18.0
+1505059891584	geckodriver	INFO	Listening on 127.0.0.1:42135
+1505059893115	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:9586): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9586): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9586): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9586): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505059905508	Marionette	INFO	Listening on port 41801
+1505059905892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505060308769	geckodriver	INFO	geckodriver 0.18.0
+1505060308832	geckodriver	INFO	Listening on 127.0.0.1:55437
+1505060310393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:9776): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9776): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9776): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9776): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505060323122	Marionette	INFO	Listening on port 42249
+1505060323962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505060395673	geckodriver	INFO	geckodriver 0.18.0
+1505060395718	geckodriver	INFO	Listening on 127.0.0.1:33663
+1505060397244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:9902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9902): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9902): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505060410174	Marionette	INFO	Listening on port 46139
+1505060411164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505061099642	geckodriver	INFO	geckodriver 0.18.0
+1505061099738	geckodriver	INFO	Listening on 127.0.0.1:52149
+1505061101334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:10104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505061113181	Marionette	INFO	Listening on port 37603
+1505061113542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505061497843	geckodriver	INFO	geckodriver 0.18.0
+1505061497930	geckodriver	INFO	Listening on 127.0.0.1:58535
+1505061499482	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:10242): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10242): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10242): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10242): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505061511144	Marionette	INFO	Listening on port 44283
+1505061511576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505061713233	geckodriver	INFO	geckodriver 0.18.0
+1505061713276	geckodriver	INFO	Listening on 127.0.0.1:40991
+1505061714710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:10369): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10369): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10369): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10369): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505061727619	Marionette	INFO	Listening on port 35281
+1505061728271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505061902291	geckodriver	INFO	geckodriver 0.18.0
+1505061902326	geckodriver	INFO	Listening on 127.0.0.1:43857
+1505061903879	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505061914870	Marionette	INFO	Listening on port 45743
+1505061915145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505065625306	geckodriver	INFO	geckodriver 0.18.0
+1505065625348	geckodriver	INFO	Listening on 127.0.0.1:45101
+1505065626822	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505065635136	Marionette	INFO	Listening on port 41583
+1505065635407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505066509627	geckodriver	INFO	geckodriver 0.18.0
+1505066509649	geckodriver	INFO	Listening on 127.0.0.1:52737
+1505066511168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2570): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2570): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2570): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2570): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505066520481	Marionette	INFO	Listening on port 39419
+1505066520687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505141420498	geckodriver	INFO	geckodriver 0.18.0
+1505141420537	geckodriver	INFO	Listening on 127.0.0.1:36875
+1505141422082	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505141434372	Marionette	INFO	Listening on port 43147
+1505141434865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505141792457	geckodriver	INFO	geckodriver 0.18.0
+1505141792500	geckodriver	INFO	Listening on 127.0.0.1:36125
+1505141794011	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7180): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7180): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7180): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7180): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505141803732	Marionette	INFO	Listening on port 36673
+1505141803999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505141982636	geckodriver	INFO	geckodriver 0.18.0
+1505141982657	geckodriver	INFO	Listening on 127.0.0.1:58841
+1505141984176	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7313): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7313): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7313): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7313): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505141994715	Marionette	INFO	Listening on port 45459
+1505141994952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505142232491	geckodriver	INFO	geckodriver 0.18.0
+1505142232534	geckodriver	INFO	Listening on 127.0.0.1:42109
+1505142234158	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7626): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7626): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7626): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7626): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505142246386	Marionette	INFO	Listening on port 33767
+1505142246666	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505142826928	geckodriver	INFO	geckodriver 0.18.0
+1505142826964	geckodriver	INFO	Listening on 127.0.0.1:44395
+1505142828767	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7783): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7783): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7783): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7783): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505142850518	Marionette	INFO	Listening on port 38047
+1505142851526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505142925113	geckodriver	INFO	geckodriver 0.18.0
+1505142925184	geckodriver	INFO	Listening on 127.0.0.1:55561
+1505142927116	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7938): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7938): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505143000211	Marionette	INFO	Listening on port 45195
+1505143289443	geckodriver	INFO	geckodriver 0.18.0
+1505143289523	geckodriver	INFO	Listening on 127.0.0.1:45251
+1505143297101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:8077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8077): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8077): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505144720671	geckodriver	INFO	geckodriver 0.18.0
+1505144720696	geckodriver	INFO	Listening on 127.0.0.1:53311
+1505144722286	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1896): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1896): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1896): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1896): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505144734366	Marionette	INFO	Listening on port 35595
+1505144734798	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505145269150	geckodriver	INFO	geckodriver 0.18.0
+1505145269176	geckodriver	INFO	Listening on 127.0.0.1:41189
+1505145270894	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2041): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2041): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2041): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2041): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505145287324	Marionette	INFO	Listening on port 37103
+1505145288328	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505146279384	geckodriver	INFO	geckodriver 0.18.0
+1505146279410	geckodriver	INFO	Listening on 127.0.0.1:38237
+1505146281398	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2370): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2370): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2370): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2370): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505146314157	Marionette	INFO	Listening on port 37301
+1505146746689	geckodriver	INFO	geckodriver 0.18.0
+1505146746769	geckodriver	INFO	Listening on 127.0.0.1:47541
+1505146748522	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2538): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2538): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2538): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2538): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505146780289	Marionette	INFO	Listening on port 37861
+1505147118454	geckodriver	INFO	geckodriver 0.18.0
+1505147118489	geckodriver	INFO	Listening on 127.0.0.1:43571
+1505147120013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1519): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1519): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1519): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1519): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505147131014	Marionette	INFO	Listening on port 45447
+1505147131299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505147641759	geckodriver	INFO	geckodriver 0.18.0
+1505147641781	geckodriver	INFO	Listening on 127.0.0.1:51371
+1505147643267	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1703): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1703): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1703): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1703): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505147653648	Marionette	INFO	Listening on port 42991
+1505147654137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505147743426	geckodriver	INFO	geckodriver 0.18.0
+1505147743447	geckodriver	INFO	Listening on 127.0.0.1:57575
+1505147744975	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1833): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1833): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1833): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1833): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505147754715	Marionette	INFO	Listening on port 36445
+1505147755039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505147914865	geckodriver	INFO	geckodriver 0.18.0
+1505147914894	geckodriver	INFO	Listening on 127.0.0.1:36437
+1505147916472	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1972): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1972): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1972): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1972): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505147926861	Marionette	INFO	Listening on port 37305
+1505147927840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505148110978	geckodriver	INFO	geckodriver 0.18.0
+1505148111015	geckodriver	INFO	Listening on 127.0.0.1:47613
+1505148112638	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2112): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2112): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2112): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2112): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505148127206	Marionette	INFO	Listening on port 38435
+1505148128172	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505148283907	geckodriver	INFO	geckodriver 0.18.0
+1505148283940	geckodriver	INFO	Listening on 127.0.0.1:40335
+1505148285680	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2245): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2245): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2245): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505148297611	Marionette	INFO	Listening on port 36891
+1505148298026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505148396284	geckodriver	INFO	geckodriver 0.18.0
+1505148396322	geckodriver	INFO	Listening on 127.0.0.1:47719
+1505148398087	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2465): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2465): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2465): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2465): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505148484142	Marionette	INFO	Listening on port 39433
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505148932861	geckodriver	INFO	geckodriver 0.18.0
+1505148932979	geckodriver	INFO	Listening on 127.0.0.1:43949
+1505148943272	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:2600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505150774649	geckodriver	INFO	geckodriver 0.18.0
+1505150774673	geckodriver	INFO	Listening on 127.0.0.1:37257
+1505150776182	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505150786056	Marionette	INFO	Listening on port 40243
+1505150786290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505150964588	geckodriver	INFO	geckodriver 0.18.0
+1505150964609	geckodriver	INFO	Listening on 127.0.0.1:40327
+1505150966168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1974): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1974): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1974): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1974): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505150975581	Marionette	INFO	Listening on port 42621
+1505150975799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505151154429	geckodriver	INFO	geckodriver 0.18.0
+1505151154462	geckodriver	INFO	Listening on 127.0.0.1:48701
+1505151156019	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2174): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2174): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2174): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2174): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505151165025	Marionette	INFO	Listening on port 38319
+1505151165322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505151389271	geckodriver	INFO	geckodriver 0.18.0
+1505151389315	geckodriver	INFO	Listening on 127.0.0.1:38103
+1505151390817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2313): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2313): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2313): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2313): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505151400846	Marionette	INFO	Listening on port 38087
+1505151401149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505152016579	geckodriver	INFO	geckodriver 0.18.0
+1505152016601	geckodriver	INFO	Listening on 127.0.0.1:53349
+1505152018149	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3189): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3189): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3189): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3189): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505152028596	Marionette	INFO	Listening on port 40913
+1505152029107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505152415902	geckodriver	INFO	geckodriver 0.18.0
+1505152415933	geckodriver	INFO	Listening on 127.0.0.1:60455
+1505152417477	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3348): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3348): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3348): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3348): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505152427319	Marionette	INFO	Listening on port 36279
+1505152427841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505152557774	geckodriver	INFO	geckodriver 0.18.0
+1505152557795	geckodriver	INFO	Listening on 127.0.0.1:52083
+1505152559354	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505152568396	Marionette	INFO	Listening on port 35347
+1505152568692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505152838728	geckodriver	INFO	geckodriver 0.18.0
+1505152838750	geckodriver	INFO	Listening on 127.0.0.1:49389
+1505152840328	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3755): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3755): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3755): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3755): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505152849446	Marionette	INFO	Listening on port 32975
+1505152849738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505156623145	geckodriver	INFO	geckodriver 0.18.0
+1505156623167	geckodriver	INFO	Listening on 127.0.0.1:53347
+1505156624681	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:5050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505156634966	Marionette	INFO	Listening on port 33451
+1505156635617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505156940850	geckodriver	INFO	geckodriver 0.18.0
+1505156940875	geckodriver	INFO	Listening on 127.0.0.1:35689
+1505156942473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:5235): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5235): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505156953919	Marionette	INFO	Listening on port 46245
+1505156954415	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505157167115	geckodriver	INFO	geckodriver 0.18.0
+1505157167145	geckodriver	INFO	Listening on 127.0.0.1:40755
+1505157168955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:5388): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5388): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505157185576	Marionette	INFO	Listening on port 41769
+1505157194879	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505160123692	geckodriver	INFO	geckodriver 0.18.0
+1505160123715	geckodriver	INFO	Listening on 127.0.0.1:33663
+1505160125223	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3143): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3143): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3143): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3143): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505160133552	Marionette	INFO	Listening on port 46777
+1505160133823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505161491430	geckodriver	INFO	geckodriver 0.18.0
+1505161491451	geckodriver	INFO	Listening on 127.0.0.1:59705
+1505161492983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:4429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505161501214	Marionette	INFO	Listening on port 38335
+1505161501513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505164030695	geckodriver	INFO	geckodriver 0.18.0
+1505164030718	geckodriver	INFO	Listening on 127.0.0.1:54895
+1505164032244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2797): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2797): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2797): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2797): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505164040656	Marionette	INFO	Listening on port 41671
+1505164040938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505164587471	geckodriver	INFO	geckodriver 0.18.0
+1505164587492	geckodriver	INFO	Listening on 127.0.0.1:34595
+1505164588991	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505164599360	Marionette	INFO	Listening on port 36063
+1505164599566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505164749204	geckodriver	INFO	geckodriver 0.18.0
+1505164749225	geckodriver	INFO	Listening on 127.0.0.1:46037
+1505164750719	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505164759084	Marionette	INFO	Listening on port 46741
+1505164759350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505165283231	geckodriver	INFO	geckodriver 0.18.0
+1505165283254	geckodriver	INFO	Listening on 127.0.0.1:35945
+1505165284730	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3264): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3264): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3264): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3264): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505165294690	Marionette	INFO	Listening on port 33965
+1505165295287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505165706740	geckodriver	INFO	geckodriver 0.18.0
+1505165706761	geckodriver	INFO	Listening on 127.0.0.1:55083
+1505165708259	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3460): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3460): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505165717095	Marionette	INFO	Listening on port 38211
+1505165717609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505165849507	geckodriver	INFO	geckodriver 0.18.0
+1505165849528	geckodriver	INFO	Listening on 127.0.0.1:56531
+1505165851062	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3593): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3593): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3593): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3593): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505165860669	Marionette	INFO	Listening on port 39355
+1505165861181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505166812230	geckodriver	INFO	geckodriver 0.18.0
+1505166812251	geckodriver	INFO	Listening on 127.0.0.1:50369
+1505166813733	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3828): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3828): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3828): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3828): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505166822152	Marionette	INFO	Listening on port 41827
+1505166822428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505167187226	geckodriver	INFO	geckodriver 0.18.0
+1505167187248	geckodriver	INFO	Listening on 127.0.0.1:49769
+1505167544872	geckodriver	INFO	geckodriver 0.18.0
+1505167544893	geckodriver	INFO	Listening on 127.0.0.1:60075
+1505167546413	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:4150): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4150): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4150): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+Inconsistency detected by ld.so: dl-open.c: 689: _dl_open: Assertion `_dl_debug_initialize (0, args.nsid)->r_state == RT_CONSISTENT' failed!
+1505168083602	geckodriver	INFO	geckodriver 0.18.0
+1505168083625	geckodriver	INFO	Listening on 127.0.0.1:37537
+1505168085160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1671): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1671): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1671): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1671): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505168094721	Marionette	INFO	Listening on port 39605
+1505168094954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505168368378	geckodriver	INFO	geckodriver 0.18.0
+1505168368403	geckodriver	INFO	Listening on 127.0.0.1:57139
+1505168369934	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1858): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1858): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1858): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1858): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505168380076	Marionette	INFO	Listening on port 36613
+1505168380745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505168819067	geckodriver	INFO	geckodriver 0.18.0
+1505168819088	geckodriver	INFO	Listening on 127.0.0.1:53149
+1505168820791	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2005): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2005): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2005): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2005): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505168829657	Marionette	INFO	Listening on port 35275
+1505168829945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505169004862	geckodriver	INFO	geckodriver 0.18.0
+1505169004885	geckodriver	INFO	Listening on 127.0.0.1:47205
+1505169006413	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2152): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2152): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2152): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2152): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505169016847	Marionette	INFO	Listening on port 37033
+1505169017345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505169091130	geckodriver	INFO	geckodriver 0.18.0
+1505169091238	geckodriver	INFO	Listening on 127.0.0.1:39919
+1505169092851	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2346): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2346): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2346): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2346): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505169137759	Marionette	INFO	Listening on port 46721
+1505169193119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505174122929	geckodriver	INFO	geckodriver 0.18.0
+1505174122951	geckodriver	INFO	Listening on 127.0.0.1:58647
+1505174124482	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1808): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1808): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1808): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1808): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505174132972	Marionette	INFO	Listening on port 35303
+1505174133243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505176375185	geckodriver	INFO	geckodriver 0.18.0
+1505176375207	geckodriver	INFO	Listening on 127.0.0.1:43553
+1505176376740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2063): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2063): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2063): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2063): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505176386654	Marionette	INFO	Listening on port 33857
+1505176386871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505176477681	geckodriver	INFO	geckodriver 0.18.0
+1505176477703	geckodriver	INFO	Listening on 127.0.0.1:57187
+1505176479244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505176494972	Marionette	INFO	Listening on port 41485
+1505176495877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505176714412	geckodriver	INFO	geckodriver 0.18.0
+1505176714447	geckodriver	INFO	Listening on 127.0.0.1:38287
+1505176716005	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2332): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2332): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2332): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2332): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505176727877	Marionette	INFO	Listening on port 40027
+1505176728582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505177525357	geckodriver	INFO	geckodriver 0.18.0
+1505177525380	geckodriver	INFO	Listening on 127.0.0.1:36639
+1505177526893	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1691): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1691): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505177535485	Marionette	INFO	Listening on port 37673
+1505177535765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505177649586	geckodriver	INFO	geckodriver 0.18.0
+1505177649607	geckodriver	INFO	Listening on 127.0.0.1:36087
+1505177651133	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1831): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1831): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1831): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1831): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505177662369	Marionette	INFO	Listening on port 43561
+1505177662590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505177766874	geckodriver	INFO	geckodriver 0.18.0
+1505177766905	geckodriver	INFO	Listening on 127.0.0.1:46867
+1505177768462	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505177785587	Marionette	INFO	Listening on port 39337
+1505177786466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505178169194	geckodriver	INFO	geckodriver 0.18.0
+1505178169258	geckodriver	INFO	Listening on 127.0.0.1:45647
+1505178170875	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2294): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2294): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2294): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2294): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505178224047	Marionette	INFO	Listening on port 33709
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505178869853	geckodriver	INFO	geckodriver 0.18.0
+1505178869898	geckodriver	INFO	Listening on 127.0.0.1:51667
+1505178871395	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2412): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2412): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2412): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2412): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505178974118	Marionette	INFO	Listening on port 42587
+1505179200439	geckodriver	INFO	geckodriver 0.18.0
+1505179201157	geckodriver	INFO	Listening on 127.0.0.1:57407
+1505179219443	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505179388443	geckodriver	INFO	geckodriver 0.18.0
+1505179388727	geckodriver	INFO	Listening on 127.0.0.1:59219
+1505179405676	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:2622): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2622): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2622): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2622): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505328235041	geckodriver	INFO	geckodriver 0.18.0
+1505328235076	geckodriver	INFO	Listening on 127.0.0.1:57799
+1505328236599	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505328247478	Marionette	INFO	Listening on port 44565
+1505328247743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505328362856	geckodriver	INFO	geckodriver 0.18.0
+1505328362884	geckodriver	INFO	Listening on 127.0.0.1:44223
+1505328364391	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2999): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2999): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2999): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2999): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505328373579	Marionette	INFO	Listening on port 46511
+1505328373865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505328470382	geckodriver	INFO	geckodriver 0.18.0
+1505328470410	geckodriver	INFO	Listening on 127.0.0.1:57177
+1505328471916	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505328482511	Marionette	INFO	Listening on port 45029
+1505328482867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505328797822	geckodriver	INFO	geckodriver 0.18.0
+1505328797843	geckodriver	INFO	Listening on 127.0.0.1:59697
+1505328799576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3312): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3312): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3312): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3312): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505328809155	Marionette	INFO	Listening on port 38879
+1505328809433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505329238722	geckodriver	INFO	geckodriver 0.18.0
+1505329238744	geckodriver	INFO	Listening on 127.0.0.1:43127
+1505329240300	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505329249367	Marionette	INFO	Listening on port 35591
+1505329249669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505329406804	geckodriver	INFO	geckodriver 0.18.0
+1505329406826	geckodriver	INFO	Listening on 127.0.0.1:40065
+1505329408377	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505329417195	Marionette	INFO	Listening on port 42583
+1505329417686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505330042589	geckodriver	INFO	geckodriver 0.18.0
+1505330042612	geckodriver	INFO	Listening on 127.0.0.1:47193
+1505330044166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:3896): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3896): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3896): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3896): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505330053819	Marionette	INFO	Listening on port 45221
+1505330054116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505330401308	geckodriver	INFO	geckodriver 0.18.0
+1505330401330	geckodriver	INFO	Listening on 127.0.0.1:38985
+1505330402866	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:4092): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4092): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4092): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4092): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505330411686	Marionette	INFO	Listening on port 44655
+1505330411958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505926665945	geckodriver	INFO	geckodriver 0.18.0
+1505926665980	geckodriver	INFO	Listening on 127.0.0.1:56915
+1505926667487	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1323): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1323): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505926679063	Marionette	INFO	Listening on port 41641
+1505926679277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505926852831	geckodriver	INFO	geckodriver 0.18.0
+1505926852852	geckodriver	INFO	Listening on 127.0.0.1:42091
+1505926854337	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505926862543	Marionette	INFO	Listening on port 46237
+1505926862814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505927422883	geckodriver	INFO	geckodriver 0.18.0
+1505927422904	geckodriver	INFO	Listening on 127.0.0.1:52879
+1505927424388	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1656): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1656): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1656): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1656): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505927432598	Marionette	INFO	Listening on port 35581
+1505927432859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505928187441	geckodriver	INFO	geckodriver 0.18.0
+1505928187463	geckodriver	INFO	Listening on 127.0.0.1:54635
+1505928188946	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1829): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1829): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1829): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1829): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505928197283	Marionette	INFO	Listening on port 44123
+1505928197545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505928554476	geckodriver	INFO	geckodriver 0.18.0
+1505928554497	geckodriver	INFO	Listening on 127.0.0.1:49981
+1505928556021	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505928565446	Marionette	INFO	Listening on port 35505
+1505928565939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505929075268	geckodriver	INFO	geckodriver 0.18.0
+1505929075290	geckodriver	INFO	Listening on 127.0.0.1:36769
+1505929076851	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2168): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2168): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2168): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2168): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505929090602	Marionette	INFO	Listening on port 40759
+1505929091463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505929161983	geckodriver	INFO	geckodriver 0.18.0
+1505929162005	geckodriver	INFO	Listening on 127.0.0.1:41701
+1505929163588	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505929179648	Marionette	INFO	Listening on port 38871
+1505929180129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505929714246	geckodriver	INFO	geckodriver 0.18.0
+1505929714310	geckodriver	INFO	Listening on 127.0.0.1:46455
+1505929715871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505930121203	geckodriver	INFO	geckodriver 0.18.0
+1505930121237	geckodriver	INFO	Listening on 127.0.0.1:53941
+1505930122750	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1271): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1271): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1271): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1271): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505930134399	Marionette	INFO	Listening on port 46033
+1505930134612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505930208216	geckodriver	INFO	geckodriver 0.18.0
+1505930208236	geckodriver	INFO	Listening on 127.0.0.1:58445
+1505930209760	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1403): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1403): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1403): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1403): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505930219984	Marionette	INFO	Listening on port 35955
+1505930220497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505930789348	geckodriver	INFO	geckodriver 0.18.0
+1505930789371	geckodriver	INFO	Listening on 127.0.0.1:59757
+1505930790898	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1603): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1603): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1603): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1603): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505930800423	Marionette	INFO	Listening on port 37309
+1505930800960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505931032705	geckodriver	INFO	geckodriver 0.18.0
+1505931032726	geckodriver	INFO	Listening on 127.0.0.1:50477
+1505931034244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1750): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1750): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1750): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1750): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505931044024	Marionette	INFO	Listening on port 33145
+1505931044728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505931172277	geckodriver	INFO	geckodriver 0.18.0
+1505931172298	geckodriver	INFO	Listening on 127.0.0.1:47183
+1505931173964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1884): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1884): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1884): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1884): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505931190310	Marionette	INFO	Listening on port 33497
+1505931191171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505931637815	geckodriver	INFO	geckodriver 0.18.0
+1505931637888	geckodriver	INFO	Listening on 127.0.0.1:51561
+1505931639543	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2062): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2062): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2062): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2062): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505931738383	Marionette	INFO	Listening on port 36645
+1505932097835	geckodriver	INFO	geckodriver 0.18.0
+1505932097870	geckodriver	INFO	Listening on 127.0.0.1:59095
+1505932099372	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1294): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1294): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1294): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1294): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505932110613	Marionette	INFO	Listening on port 46151
+1505932111220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505932371393	geckodriver	INFO	geckodriver 0.18.0
+1505932371414	geckodriver	INFO	Listening on 127.0.0.1:46743
+1505932372927	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1450): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1450): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1450): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1450): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505932381914	Marionette	INFO	Listening on port 40209
+1505932382172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505932517687	geckodriver	INFO	geckodriver 0.18.0
+1505932517710	geckodriver	INFO	Listening on 127.0.0.1:57865
+1505932519216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1591): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1591): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1591): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1591): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505932527737	Marionette	INFO	Listening on port 41939
+1505932527938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505932781297	geckodriver	INFO	geckodriver 0.18.0
+1505932781318	geckodriver	INFO	Listening on 127.0.0.1:38807
+1505932782836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505932792254	Marionette	INFO	Listening on port 42267
+1505932792508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505932947860	geckodriver	INFO	geckodriver 0.18.0
+1505932947881	geckodriver	INFO	Listening on 127.0.0.1:52727
+1505932949366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1890): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1890): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1890): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1890): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505932960142	Marionette	INFO	Listening on port 37193
+1505932960629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505933302463	geckodriver	INFO	geckodriver 0.18.0
+1505933302484	geckodriver	INFO	Listening on 127.0.0.1:45871
+1505933304022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2113): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2113): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2113): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2113): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505933312953	Marionette	INFO	Listening on port 37505
+1505933313322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505933518562	geckodriver	INFO	geckodriver 0.18.0
+1505933518587	geckodriver	INFO	Listening on 127.0.0.1:33459
+1505933520140	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505933530418	Marionette	INFO	Listening on port 36507
+1505933530804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505933643015	geckodriver	INFO	geckodriver 0.18.0
+1505933643081	geckodriver	INFO	Listening on 127.0.0.1:57917
+1505933644716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:2409): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2409): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2409): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2409): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505933732341	Marionette	INFO	Listening on port 41477
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505938072250	geckodriver	INFO	geckodriver 0.18.0
+1505938072287	geckodriver	INFO	Listening on 127.0.0.1:36049
+1505938073812	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1446): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1446): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1446): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1446): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505938084794	Marionette	INFO	Listening on port 33771
+1505938085540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505938398093	geckodriver	INFO	geckodriver 0.18.0
+1505938398116	geckodriver	INFO	Listening on 127.0.0.1:48147
+1505938399590	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1624): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1624): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1624): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1624): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505938407943	Marionette	INFO	Listening on port 39137
+1505938408443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505938490786	geckodriver	INFO	geckodriver 0.18.0
+1505938490809	geckodriver	INFO	Listening on 127.0.0.1:42099
+1505938492313	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:1755): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1755): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1755): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1755): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1505938501818	Marionette	INFO	Listening on port 39601
+1505938502307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.publicstorage.com/sizeguide/js/vendor/video.js, line 121: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1506225751827	geckodriver	INFO	geckodriver 0.18.0
+1506225751849	geckodriver	INFO	Listening on 127.0.0.1:55315

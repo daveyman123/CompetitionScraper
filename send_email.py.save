@@ -1,0 +1,55 @@
+#!/usr/bin/python
+import subprocess
+import smtplib,ssl
+from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email.mime.text import MIMEText
+from email.utils import formatdate
+from email import encoders
+import datetime
+import time
+
+dt = (datetime.datetime.now().strftime("%m-%d-%y"))
+
+month, day, year = (int(x) for x in dt.split('-'))    
+answer = datetime.date(year, month, day).weekday()
+print answer
+#subprocess.call(["sudo scrapy crawl ExtraSpace"],shell = True)
+#time.sleep(5)
+
+filez = "/home/pi/business/competition rates %s.csv" %(datetime.datetime.now().strftime("%m-%d-%y"))
+
+part = MIMEBase('application', "octet-stream")
+part.set_payload(open(filez, "rb").read())
+
+
+msg = MIMEMultipart()
+msg['From'] = "DonalTrump@yahoo.com"
+msg['To'] = "dylanbob86@gmail.com"
+msg['Date'] = formatdate(localtime = True)
+msg['Subject'] = "blah"
+msg.attach(MIMEText("hello"))
+
+
+
+
+content = 'example email stuff here'
+
+mail = smtplib.SMTP('smtp.gmail.com',587)
+
+mail.ehlo()
+
+mail.starttls()
+
+mail.login('djgraff1@cougars.ccis.edu','2ZNf+Uy}')
+
+encoders.encode_base64(part)
+part.add_header('Content-Disposition', 'attachment; filename="data on %s.csv"'%(datetime.datetime.now().strftime("%m-%d-%y")))
+msg.attach(part)
+
+try:
+    print 'email sent'
+    mail.sendmail('DonaldTrump@WhiteHouse.Gov','dylanbob86@gmail.com',msg.as_string())
+except:
+    print 'error sending email'
+mail.close()

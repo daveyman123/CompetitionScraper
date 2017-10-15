@@ -1,0 +1,71 @@
+import scrapy
+from scrapy.selector import Selector
+from business.items import TesttestItem
+import datetime
+import re
+class MySpider(scrapy.Spider):
+        name = "LifeStorage"
+
+        allowed_domains = ['https://www.lifestorage.com']
+        start_urls = ['https://www.lifestorage.com/storage-units/missouri/saint$
+
+        def parse(self, response):
+                info = response.css('#spaceList > li')
+                items = []
+                inside = "Indoor"
+                outside = "Outdoor"
+                inside_units = ["5 x 5", "5 x 10"]
+                outside_units = [" 10' x 15'"," 5' x 15'"," 8' x 10'"," 10' x 1$
+                yield {'date': datetime.datetime.now().strftime("%m-%d-%y"),
+                       'name': "Life Storage"
+                       }
+                x = 0
+                for i in info:
+                    print i
+                    if i.css(".storesRow a::text").extract_first() in outside_u$
+                        yield {
+
+
+                        "special": i.css(".fiftyMessage::text").extract_first(),
+                        "rate": re.findall(r'\d+',i.css(".priceBox strong::text$
+                        "size": i.css(".storesRow a::text").extract_first(),
+                        "types": i.css("li:nth-child(1)::text").extract_first()
+
+                }
+
+
+
+import scrapy
+from scrapy.selector import Selector
+from business.items import TesttestItem
+import datetime
+import re
+class MySpider(scrapy.Spider):
+	name = "LifeStorage"
+	
+	allowed_domains = ['https://www.lifestorage.com']
+	start_urls = ['https://www.lifestorage.com/storage-units/missouri/saint-louis/63125/312-near-mehlville/?size=5x5']
+
+	def parse(self, response):
+		info = response.css('#spaceList > li')
+		items = []
+		inside = "Indoor"
+                outside = "Outdoor"
+		inside_units = ["5 x 5", "5 x 10"]
+		outside_units = [" 10' x 15'"," 5' x 15'"," 8' x 10'"," 10' x 10'"," 10' x 20'"," 10' x 25'"," 10' x 30'"]
+		yield {'date': datetime.datetime.now().strftime("%m-%d-%y"),
+                       'name': "Life Storage"
+                       }
+		x = 0
+		for i in info:
+                    print i
+                    if i.css(".storesRow a::text").extract_first() in outside_units and outside in i.css("li:nth-child(1)::text").extract_first():
+                        yield {
+                        
+			
+                        "special": i.css(".fiftyMessage::text").extract_first(),
+                        "rate": re.findall(r'\d+',i.css(".priceBox strong::text").extract_first()),
+                        "size": i.css(".storesRow a::text").extract_first(),
+                        "types": i.css("li:nth-child(1)::text").extract_first()
+	
+		}
